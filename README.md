@@ -32,13 +32,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+    Document Object Model.
+
 2. What is an event?
+
+    when an item that is being monitored gets selected, an event will happen.
 
 3. What is an event listener?
 
+    uses a keyword to monitor an item for an event.
+
 4. Why would we convert a NodeList into an Array?
 
+    to use Array methods.
+
 5. What is a component?
+
+    bringing languages together for reuse.
 
 ### Git Set up
 
